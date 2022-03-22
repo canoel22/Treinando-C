@@ -15,5 +15,5 @@ int main() {
     }
     printf ("%d", cont); //quantas vezes os números foram divididos por 2
     return 0;
-}
+]
 
